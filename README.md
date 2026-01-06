@@ -19,7 +19,8 @@ EDA и feature engineering — исследование 7,032 записей с 
 
 **Gradient Boosting**
 
-# Результаты — лучшая модель (AdaBoost) достигла F1-score 0.57 для класса "отток" при общей accuracy 83%
+# Результаты
+Лучшая модель (AdaBoost) достигла F1-score 0.57 для класса "отток" при общей accuracy 83%
 
 # Технологии
 Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
